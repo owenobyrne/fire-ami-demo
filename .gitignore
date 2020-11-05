@@ -1,0 +1,11 @@
+# Project exclude paths
+/target/
+/fire-ami-demo.iml
+/package.json
+/package-lock.json
+/webpack.config.js
+/webpack.generated.js
+/node_modules/
+/config/
+/.idea/
+/build/
